@@ -4,7 +4,7 @@ Java, JavaScript and Python
 Libraries: NodeJS and Express
 
 Project:
-• GCDOCS Document Management Portal
+GCDOCS Document Management Portal
 (MERN Stack)
 
 E-commerce Online Shopping (PHP)
