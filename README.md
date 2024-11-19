@@ -1,6 +1,20 @@
-- Hi! I’m @urloyalprogrammer2017
-- I’m interested in JavaScript, NodeJS, Express, MongoDB and also in React Framework
-- I’m currently learning Typescript Syntax.
-- MERN Fullstack Developer
-- How to reach me? Message me to my facebook account 
-- "Luganob Jerald" or you can just send a message to my email account "Jerald.luganob@hotmail.com"
+Programming Languages:
+Java
+JavaScript
+Python
+
+Libraries (I have experienced):
+NodeJS
+Express
+
+Project:
+• GCDOCS Document Management Portal
+(MERN Stack)
+
+• E-commerce Online Shopping (PHP)
+• Keystone Mobile Application (React Native)
+• MERN Fullstack Developer
+
+• Send your message here:
+Facebook: Luganob Jerald
+Email: Jerald.luganob@hotmail.com
