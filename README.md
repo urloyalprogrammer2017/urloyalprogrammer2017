@@ -15,6 +15,7 @@ Project:
 • Keystone Mobile Application (React Native)
 • MERN Fullstack Developer
 
-• Send your message here: /n
+• Send your message here:
+
 Facebook: Luganob Jerald
 Email: Jerald.luganob@hotmail.com
