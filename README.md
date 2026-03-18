@@ -1,5 +1,5 @@
 Software Engineer & MERN Stack Developer
-BSCS Graduate | IT Officer
+BSCS Graduate | Information Technology Officer
 
 Professional Full-Stack Developer with a focus on building secure, scalable digital platforms. Experienced in transforming manual systems into modern web and mobile applications for educational and financial institutions.
 
@@ -19,4 +19,4 @@ Keystone Mobile Application (React Native): Engineered a mobile solution for Key
 #Get in Touch
 Email: Jerald.luganob@hotmail.com
 
-Current Role: IT Officer & MERN Fullstack Developer
+Current Role: Information Technology Officer & MERN Fullstack Developer
