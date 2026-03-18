@@ -1,14 +1,22 @@
-Programming Languages:
-Java, JavaScript and Python
+Software Engineer & MERN Stack Developer
+BSCS Graduate | IT Officer
 
-Libraries: NodeJS and Express
+Professional Full-Stack Developer with a focus on building secure, scalable digital platforms. Experienced in transforming manual systems into modern web and mobile applications for educational and financial institutions.
 
-Project:
-GCDOCS Document Management Portal
-(MERN Stack)
-E-commerce Online Shopping (PHP)
-Keystone Mobile Application (React Native)
-MERN Fullstack Developer
+#Technical Toolkit
+Languages: JavaScript (ES6+), Java, Python
+Backend: Node.js, Express.js
+Frontend & Mobile: React.js (PWA), React Native
+Database: MongoDB
 
-Send your message here:
-Jerald.luganob@hotmail.com (Email)
+#Key Projects
+KazaMamo.i Decri (Full-Stack MERN): Developed a secure digital platform for Kazama Grameen, transitioning their manual passbook system into an accessible digital interface for both staff and members.
+
+GCDOCS Document Management Portal (MERN): Built a centralized document management solution for Gordon College.
+
+Keystone Mobile Application (React Native): Engineered a mobile solution for Keystone International School to enhance institutional connectivity.
+
+#Get in Touch
+Email: Jerald.luganob@hotmail.com
+
+Current Role: IT Officer & MERN Fullstack Developer
