@@ -10,7 +10,7 @@ Frontend & Mobile: React.js (PWA), React Native
 Database: MongoDB
 
 #Key Projects
-KazaMamo.i (Full-Stack MERN): Developed a secure digital platform for Kazama Grameen, transitioning their manual passbook system into an accessible digital interface for both staff and members.
+KazaMamo.i (Full-Stack MERN): Developed a secure digital platform for Kazama Grameen Microfinance Inc., transitioning their manual passbook system into an accessible digital interface for both staff and members.
 
 GCDOCS Document Management Portal (MERN): Built a centralized document management solution for Gordon College.
 
